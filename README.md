@@ -8,4 +8,4 @@ Java dice throwing project, with Git.
 -[x] Izveidot GitHub repo
 -[x] Lokālais projekts izvietots GitHub
 -[] Papildināts GitHub krātuves saturs iesniegts lokālai lietošanai
--[] 
+...
