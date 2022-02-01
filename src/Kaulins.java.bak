@@ -14,7 +14,6 @@ public class Kaulins {
 		for(int i=1;i<=reizes;i++){
 		s = rand.nextInt(6)+1;
 		System.out.println("Uzkrita skaitlis: "+s);
-		System.out.println("Malacite Agri, Tu to izdariji! :) ");
 		
 		
 	}
