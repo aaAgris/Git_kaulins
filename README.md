@@ -7,5 +7,5 @@ Java dice throwing project, with Git.
 -[x] Izveidot GitHub kontu
 -[x] Izveidot GitHub repo
 -[x] Lokālais projekts izvietots GitHub
--[] Papildināts GitHub krātuves saturs iesniegts lokālai lietošanai
+-[x] Papildināts GitHub krātuves saturs iesniegts lokālai lietošanai
 ...
