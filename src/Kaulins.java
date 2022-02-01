@@ -12,8 +12,10 @@ public class Kaulins {
 		int reizes = scan.nextInt();
 		Random rand = new Random();
 		for(int i=1;i<=reizes;i++){
-		s = rand.nextInt(6)+1;
+		s = rand.nextInt(5)+2;
 		System.out.println("Uzkrita skaitlis: "+s);
+		
+		
 	}
 	}
 
